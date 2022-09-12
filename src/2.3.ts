@@ -1,5 +1,6 @@
  // [no editar] (pretender que esto proviene de una version externa de la
  // biblioteca `foo.d.ts`)
+ /*
  interface Ciudad extends Coords{
     nombre: string;
     coords:Coords;
@@ -39,3 +40,4 @@ interface Coords {
 
  console.log('[Ejercicio 2.3]',
      `${informacionCiudad(montreal)} \n\n ${informacionCiudad(tampa)}`);
+     */
